@@ -9,7 +9,7 @@
     "geom:bbox":"-90.372734,37.33419,-88.69896,38.6079",
     "geom:latitude":38.076975,
     "geom:longitude":-89.512577,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":8287432662.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 58",
     "uscensus:sldust":"058",
     "uscensus:statefp":"17",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486592,
     "wof:geomhash":"a69a5d7a6ebf73086a7e1ee7121e3dbe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688697
+        }
+    ],
     "wof:id":1108764775,
     "wof:lastmodified":1481486592,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688697,
     "wof:repo":"whosonfirst-data-constituency-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],

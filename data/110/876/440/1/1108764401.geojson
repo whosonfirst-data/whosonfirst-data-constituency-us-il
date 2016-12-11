@@ -9,7 +9,7 @@
     "geom:bbox":"-87.70594,41.91268,-87.636117,41.968514",
     "geom:latitude":41.939943,
     "geom:longitude":-87.674837,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":15744653.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 11",
     "uscensus:sldlst":"011",
     "uscensus:statefp":"17",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486522,
     "wof:geomhash":"789f1a15c2268bc15ac9a5b53d6d54e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688697
+        }
+    ],
     "wof:id":1108764401,
     "wof:lastmodified":1481486522,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688697,
     "wof:repo":"whosonfirst-data-constituency-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],

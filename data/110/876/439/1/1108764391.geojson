@@ -9,7 +9,7 @@
     "geom:bbox":"-87.70297,41.762676,-87.621764,41.89655",
     "geom:latitude":41.807442,
     "geom:longitude":-87.651816,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":25713170.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 6",
     "uscensus:sldlst":"006",
     "uscensus:statefp":"17",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486521,
     "wof:geomhash":"a9067be1c16755313335617c23abae28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688697
+        }
+    ],
     "wof:id":1108764391,
     "wof:lastmodified":1481486521,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688697,
     "wof:repo":"whosonfirst-data-constituency-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],

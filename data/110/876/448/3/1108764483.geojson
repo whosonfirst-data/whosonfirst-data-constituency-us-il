@@ -9,7 +9,7 @@
     "geom:bbox":"-88.01598,41.766386,-87.88912,41.93166",
     "geom:latitude":41.841666,
     "geom:longitude":-87.950069,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":86680906.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 47",
     "uscensus:sldlst":"047",
     "uscensus:statefp":"17",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486532,
     "wof:geomhash":"03b39d64c11cddf6ca35c6ec8001ee57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688697
+        }
+    ],
     "wof:id":1108764483,
     "wof:lastmodified":1481486532,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688697,
     "wof:repo":"whosonfirst-data-constituency-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],

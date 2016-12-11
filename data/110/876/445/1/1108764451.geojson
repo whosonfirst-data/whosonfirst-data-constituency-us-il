@@ -9,7 +9,7 @@
     "geom:bbox":"-87.60519,41.47007,-87.52474,41.75167",
     "geom:latitude":41.607729,
     "geom:longitude":-87.548769,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":68088614.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 33",
     "uscensus:sldlst":"033",
     "uscensus:statefp":"17",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486528,
     "wof:geomhash":"917636c9495ef444d3bd48be5dde981a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688697
+        }
+    ],
     "wof:id":1108764451,
     "wof:lastmodified":1481486528,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688697,
     "wof:repo":"whosonfirst-data-constituency-us-il",
     "wof:superseded_by":[],
     "wof:supersedes":[],
